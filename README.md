@@ -1,5 +1,7 @@
 <!--lint disable no-literal-urls-->
 
+<!--hamster-->
+
 <p align="center">
   <a href="https://nodejs.org/">
     <img
